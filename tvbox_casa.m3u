@@ -490,7 +490,8 @@ http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71086
 http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71460
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://lh3.googleusercontent.com/-g8HgpzlLFf4/YB7YJu7t-6I/AAAAAAAAKA0/ufbi_q7GJVUd3Un_HJwPo7ie8NCmNkZSwCLcBGAsYHQ/TOONCAST.png" group-title="INFANTIL",TOONCAST SD
 http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71280
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="" group-title="24H-SHOWS",TRAVEL BOX BRASIL HD
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="" group-title="24H-SHOWS",TRAVEL BOX BRASIL #EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TravelBoxBrazilLogo.png" group-title="24H-SHOWS",TRAVEL BOX BRASIL HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71472
 http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71472
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV SD" tvg-logo="https://1.bp.blogspot.com/-Fiw4brPaCjU/YBxZDBx9i3I/AAAAAAAAJ1c/SlnstmbOAT0pvdjfA7QkRR8xuM6aGnN5QCLcBGAsYHQ/s0/tru%2Btv.png" group-title="DOCUMENTARIOS",TRU TV SD
 http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71281
@@ -633,15 +634,15 @@ http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71124
 http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71125
 #EXTINF:-1 tvg-id="" tvg-name="EI PLUS 4" tvg-logo="https://lh3.googleusercontent.com/-gf8xhlzJzOI/YB6dbh-hByI/AAAAAAAAJ9k/O0-fp6I_45sGswQYfuUxkxJnrYoEt9Q_QCLcBGAsYHQ/EI%2BPLUS.png" group-title="SPORTS",EI PLUS 4
 http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71126
-#EXTINF:-1 tvg-id="" tvg-name="EI PLUS SD" tvg-logo="https://lh3.googleusercontent.com/-gf8xhlzJzOI/YB6dbh-hByI/AAAAAAAAJ9k/O0-fp6I_45sGswQYfuUxkxJnrYoEt9Q_QCLcBGAsYHQ/EI%2BPLUS.png" group-title="SPORTS",EI PLUS SD
-http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71159
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 1" tvg-logo="" group-title="SPORTS",COPA DO NORDESTE JOGO 1
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS SD" tvg-logo="https://lh3.googleusercontent.com/-gf8xhlzJzOI/YB6dbh-hByI/AAAAAAAAJ9k/O0-fp6I_45sGswQYfuUxkxJnrYoEt9Q_QCLcBGAsYHQ/EI%2BPLUS.png" group-title="SPORTS",EI PLUS SD#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 1" tvg-logo="https://lh3.googleusercontent.com/proxy/82vvATvL9ET7sdwgS1R-e-ySSdOJfjKSYheTgIzEw1Vw5GIghVMeFIcG6xiQQ1Gc-Bfp4jpm5MAMUSjLM8Z26FnAYC-mSKyoFV2cDTasFshcI2W7YHp2DF5HM3nT4IkL2s5kQZY" group-title="SPORTS",COPA DO NORDESTE JOGO 1
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/78961
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 2" tvg-logo="" group-title="SPORTS",COPA DO NORDESTE JOGO 2
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 1" tvg-logo="https://lh3.googleusercontent.com/proxy/82vvATvL9ET7sdwgS1R-e-ySSdOJfjKSYheTgIzEw1Vw5GIghVMeFIcG6xiQQ1Gc-Bfp4jpm5MAMUSjLM8Z26FnAYC-mSKyoFV2cDTasFshcI2W7YHp2DF5HM3nT4IkL2s5kQZY" group-title="SPORTS",COPA DO NORDESTE JOGO 1
+http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/78961
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 2" tvg-logo="https://lh3.googleusercontent.com/proxy/82vvATvL9ET7sdwgS1R-e-ySSdOJfjKSYheTgIzEw1Vw5GIghVMeFIcG6xiQQ1Gc-Bfp4jpm5MAMUSjLM8Z26FnAYC-mSKyoFV2cDTasFshcI2W7YHp2DF5HM3nT4IkL2s5kQZY" group-title="SPORTS",COPA DO NORDESTE JOGO 2
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/78962
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 3" tvg-logo="" group-title="SPORTS",COPA DO NORDESTE JOGO 3
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 3" tvg-logo="https://lh3.googleusercontent.com/proxy/82vvATvL9ET7sdwgS1R-e-ySSdOJfjKSYheTgIzEw1Vw5GIghVMeFIcG6xiQQ1Gc-Bfp4jpm5MAMUSjLM8Z26FnAYC-mSKyoFV2cDTasFshcI2W7YHp2DF5HM3nT4IkL2s5kQZY" group-title="SPORTS",COPA DO NORDESTE JOGO 3
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/78963
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 4" tvg-logo="" group-title="SPORTS",COPA DO NORDESTE JOGO 4
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE JOGO 4" tvg-logo="https://lh3.googleusercontent.com/proxy/82vvATvL9ET7sdwgS1R-e-ySSdOJfjKSYheTgIzEw1Vw5GIghVMeFIcG6xiQQ1Gc-Bfp4jpm5MAMUSjLM8Z26FnAYC-mSKyoFV2cDTasFshcI2W7YHp2DF5HM3nT4IkL2s5kQZY" group-title="SPORTS",COPA DO NORDESTE JOGO 4
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/78964
 
 ############################### PREMIERE #####################################
@@ -742,6 +743,8 @@ http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71391
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png" group-title="TELECINE",TELECINE TOUCH SD
 http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71275
 #EXTINF:-1 tvg-id="" tvg-name=" GLOBOVÍSION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Logo_de_globovision_1994.png/revision/latest/scale-to-width-down/340?cb=20130708041026" group-title="CANAIS DA VENEZUELA", GLOBOVISÍON
-https://youtu.be/LTpTskK6088
-#EXTINF:-1 tvg-id="" tvg-name=" TELESUR" tvg-logo="https://www.pikpng.com/pngl/m/380-3804643_logo-telesur-21secolo-telesur-imagen-clipart.png" group-title="CANAIS DA VENEZUELA", TELESUR
+
+#EXTINF:-1 tvg-id="" tvg-name="TELESUR " tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/85/Telesur_%282013-.n.v.%29.png/revision/latest?cb=20180210170126" group-title="CANAIS DA VENEZUELA",TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VENEZOLANA DE TELEVISÍON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/VTV_logo.PNG" group-title="CANAIS DA VENEZUELA",VENEZOLANA DE TELEVISION
+https://livestream.streamingconnect.com/hls/vtvweb.m3u8
