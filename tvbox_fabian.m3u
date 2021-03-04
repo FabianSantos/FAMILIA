@@ -1,6 +1,4 @@
 #EXTM3U
-##EXTINF:-1 tvg-id="" tvg-name=" SPORTV NBA" tvg-logo="" group-title="PT PORTUGAL", SPORTV NBA
-http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/72239
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES E SERIES",A&E FHD
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71092
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES E SERIES",A&E HD
@@ -223,7 +221,7 @@ http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71482
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71483
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="https://1.bp.blogspot.com/-IUH_2Xew5nw/YBxY1cVweDI/AAAAAAAAJxo/A8Zn3MHfidUC93kZR4zybcs9PHVD-1LvwCLcBGAsYHQ/s0/DANZ.png" group-title="SPORTS",DAZN 04 HD
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71446
-#EXTINF:-1 tvg-id="" tvg-name="De Ferias Com o Ex Brasil" tvg-logo="https://1.bp.blogspot.com/-D98fsRBEaFE/XxOe2aFeSxI/AAAAAAAAGsE/WlMw7XkJc7YVc_PSzt0rU61kIXWNP4mlQCK4BGAYYCw/s1600/De%2BFerias%2BCom%2Bo%2BEx%2BBrasil.png" group-title="SERIES 24H",De Ferias Com o Ex Brasil
+#EXTINF:-1 tvg-id="" tvg-name="De Ferias Com o Ex Brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ6rVZ2A1a3g2bmwuZbY4w9l6Bw8o09qjDzg&usqp=CAU" group-title="SERIES 24H",DE FERIAS COM O EX BRASIL
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/35996
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71048
@@ -659,6 +657,8 @@ http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71249
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71250
 #EXTINF:-1 tvg-id="" tvg-name="RAI INTERNACIONAL HD" tvg-logo="https://lh3.googleusercontent.com/-wYZrFITxkpc/YB6hrV50FKI/AAAAAAAAJ-M/_jA9-rURY-g50o8YnkEiNYxXmWv1KXLQQCLcBGAsYHQ/RAI%2BINTERNACIONAL.png" group-title="SPORTS",RAI INTERNACIONAL HD
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71473
+#EXTINF:-1 tvg-id="" tvg-name="TV MANCHETE" tvg-logo="https://i.pinimg.com/originals/38/b6/8a/38b68ac06d3a8c75c32553ef47314fbe.png" group-title="CANAIS ANTIGOS",REDE MANCHETE HD
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w889697000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RBS CAXIAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",RBS CAXIAS FHD
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71546
 #EXTINF:-1 tvg-id="" tvg-name="RBS CAXIAS HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="GLOBO",RBS CAXIAS HD
@@ -807,6 +807,8 @@ http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71120
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71382
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV SD" tvg-logo="https://lh3.googleusercontent.com/-0sRUj9WounA/YB6fB_a5ZyI/AAAAAAAAJ9w/cVHJ8v9mS00I5xP0PGtkf9hzkzgfPjU3ACLcBGAsYHQ/SPORTV.png" group-title="SPORTS",SPORTV SD
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71263
+#EXTINF:-1 tvg-id="" tvg-name=" SPORTV NBA" tvg-logo="" group-title="PT PORTUGAL", SPORTV NBA
+http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/72239
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL FHD
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71098
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://1.bp.blogspot.com/-ym6yEXjxZDM/YBxY8KeFDFI/AAAAAAAAJzY/GL2aFc1ncOEv3_tsTaxg91fb858Wpv7TQCLcBGAsYHQ/s0/STUDIO.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
@@ -1051,7 +1053,8 @@ http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71260
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71415
 #EXTINF:-1 tvg-id="" tvg-name="XXX VENUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeG1mUgl3xaO18_oca0D4yultTvjSgbmViig&usqp=CAU" group-title="ADULTOS 24H",XXX VENUS
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71416
-#EXTINF:-1 tvg-id="" tvg-name="XXX - VENUS HD " tvg-logo="https://1.bp.blogspot.com/-yD8JbgzvUSU/XzQajuHx2_I/AAAAAAAAG6g/5RJsVK1N_7QJ_RM9xutvo2SPAK77jd0CACLcBGAsYHQ/s640/neon-square-png-5.png" group-title="ADULTOS 24H",XXX - VENUS HD 
+#EXTINF:-1 tvg-id="" tvg-name="XXX - VENUS HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_prUELXMVe_-lp9vWBUxSj0611z9G7azAog&usqp=CAU" group-title="ADULTOS 24H",XXX - VENUS HD 
+http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/2293
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/2293
 #EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE HD" tvg-logo="https://assets-global.website-files.com/56a8f71796f7e474512210ca/5d69a0f2068031348e8918c7_Sexprive.png" group-title="ADULTOS 24H",SEX PRIVE HD
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71463
