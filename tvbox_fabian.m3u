@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES E SERIES",A&E FHD
+#EXTM3U#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES E SERIES",A&E FHD
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71092
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://1.bp.blogspot.com/-AQKYBXCQDSI/YBxYysgqsaI/AAAAAAAAJxA/eSTqAmgWbjsrYyDmd0zAjJDLAnHLGc3CACLcBGAsYHQ/s0/A%2526E.png" group-title="FILMES E SERIES",A&E HD
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71311
@@ -1087,13 +1086,9 @@ http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71417
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71407
 #EXTINF:-1 tvg-id="" tvg-name="XXX REDLIGHT" tvg-logo="https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC8yMDI1OGI5Zi03Y2U3LTQ5YTktOTY5Ni0yZGMwMDgwN2JiM2EuanBn.jpg" group-title="ADULTOS 24H",XXX REDLIGHT
 http://grtsvk.life:8080/0fac9glvj/ke6x5a8p1/71411
-#EXTINF:-1 tvg-id="" tvg-name="GLOBOVÍSION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Logo_de_globovision_1994.png/revision/latest/scale-to-width-down/340?cb=20130708041026" group-title="CANAIS DA VENEZUELA",GLOBOVISÍON
-https://r2---sn-bg07dnsy.googlevideo.com/videoplayback?expire=1614944634&ei=GsVBYNmYC8SG1sQPpfSuSA&ip=179.96.7.27&id=cwxwOrGHYwU.1&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=ej&mm=44%2C29&mn=sn-pmcg-4vge%2Csn-bg07dnsy&ms=lva%2Crdu&mv=m&mvi=4&pl=20&initcwndbps=278750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=K8rnds-6Iluvuf8ZgBrfFloF&gir=yes&mt=1614922826&fvip=4&keepalive=yes&fexp=24007246&c=WEB&n=9HfxEgrh5Jsesg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgCw6x_dJA0mFkhjSWQRUsK5Pk03h4vrGtfD1RbXcVkGgCIQCSn1EO_oJrDKyAkjmsf4fQsjRp-EF90GvhJzxjRxWHfA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgRIn_cupnHQJ8_Lriq8UBFhNV7CM0_XlG2MRpf64OGOACIFISYAa7d9X3Z_r-A76cOLFVWs5vC6bg0KKcE1YVy-mW&alr=yes&cpn=cbbUd3mKjmtAFE0e&cver=2.20210303.01.00&fallback_count=1&ir=1&rr=12&sq=19367&rn=95&rbuf=14508
 #EXTINF:-1 tvg-id="" tvg-name="TELESUR " tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/85/Telesur_%282013-.n.v.%29.png/revision/latest?cb=20180210170126" group-title="CANAIS DA VENEZUELA",TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VENEZOLANA DE TELEVISÍON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/VTV_logo.PNG" group-title="CANAIS DA VENEZUELA",VENEZOLANA DE TELEVISION
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELEVEN" tvg-logo="https://seeklogo.com/images/T/televen-2013-logo-893A84D63F-seeklogo.com.jpg" group-title="CANAIS DA VENEZUELA",TELEVEN
-https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VPI TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d1819533c6c67c1cdc892e8b411b1bdb.png" group-title="CANAIS DA VENEZUELA",VPI TV
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
