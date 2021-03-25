@@ -13,3 +13,15 @@ https://video.wixstatic.com/video/8995ee_8a7d829d06564f96bd639f9b7cdd88eb/720p/m
 https://video.wixstatic.com/video/8995ee_1955df97f2a64eaea4c9736f09c972c6/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SOLTOS EM FLÓRIPA 2" tvg-logo="https://i.pinimg.com/originals/14/3f/ab/143fab51808a237b442cc8121529a9b3.jpg" group-title="SOLTOS EM FLÓRIPA 2",Esse é o quarto do sexo
 https://video.wixstatic.com/video/8995ee_260b588763124bf68cada7b6ab4101c1/480p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://live.staticflickr.com/2626/3970715334_3fe14905b7.jpg" group-title="INFANTIL",DISNEY XD
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="  " tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="INFANTIL",DISNEY JÚNIOR
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="INFANTIL",DISNEY CHANNEL
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXPRIVE" tvg-logo="https://imagem.natelinha.uol.com.br/grande/sex-prive-logo_916e20c1976dc3588e5f1384e565391971578c52.jpeg" group-title="CANAIS ADULTO",SEXPRIVÉ
+http://edge1.lkstream.ga/live/4ffb4be4f9f78aad4e3b/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIxIDU6MDM6MzggUE0maGFzaF92YWx1ZT0rVzgxNlh6dE9FMVBaVDJnbnFTam1BPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1200px-Cartoon_Network_2004_logo.svg.png" group-title="INFANTIL",CARTOON NETWOOR
+https://youtu.be/MAArSxA1GCQ
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_4MEgN-PGlpIG5udBCwcM30C5TFkYzOBcjqlsVhfEyLRxy9rYrNNKucBtFiRAy7liDc&usqp=CAU" group-title="VENEZUELA",GLOBOVISION
+https://www.youtube.com/watch?v=XwREwvrm2iI
