@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BBB 21" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="BBB",ACOMPANHE A CASA 1
-https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://w7.pngwing.com/pngs/99/364/png-transparent-tnt-television-channel-television-show-tv-logos-television-text-trademark.png" group-title="FILMES",TNT
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE" tvg-logo="https://3.bp.blogspot.com/-k0UM0sJL_3U/XGtwKDvUuoI/AAAAAAAABTI/Y1Hd2yG2KVwhR2fNYf_IBGL74ZjZTCGEwCLcBGAs/s1600/1.jpg" group-title="PREMIERE",PREMIERE CLUBES
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="ESPORTES",ESPN BRASIL
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="ESPORTES",ESPN
@@ -19,8 +13,6 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?PE
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="INFANTIL",DISNEY CHANNEL
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png",RecordTV Manaus
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptv.gratis/logos/imagens/band.png",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png",Rede Brasil (SP)
