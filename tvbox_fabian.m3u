@@ -88,7 +88,7 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/investigacaodiscovery_4d1
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="FILMES E SÉRIES",CINE SKY
 http://sv1.casaplayer.com.br/live/aderbal/102030/19067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/tcpipoca.png" group-title="TELECINE",TELECINE PIPOCA
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/telecinepipoca.m3u8?mu3zAQc9HC3GbwJq=4QHNGo8kS6KHR9zRuC40RQ&3U1G7qaTxrPbalZnEx=1617342536
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepipocahd_ae7329c9_499bec4b9c586f7e44f82d01260b11a99782db1e/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjMwLjIxNC4xODAiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4yOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjExNCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE3MzkyNzM2O30%3D
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="INFANTIL",BOOMERANG
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=st_uv78aMTou8ZyofOTlCQ&3U1G7qaTxrPbalZnEx=1617343363
 
