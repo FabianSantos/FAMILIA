@@ -37,3 +37,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV MANCHETE" tvg-logo="https://i.pinimg.com/originals/38/b6/8a/38b68ac06d3a8c75c32553ef47314fbe.png" group-title="CANAIS ABERTOS",TV MANCHETE
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w889697000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="HBO",HBO
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hbo_63266754_cb75ad621f7fcb15e6ca31db2a997188f7636852/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjMwLjIxNC4xODAiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4yOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjExNCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE3NDExNzE2O30%3D
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://www.logolynx.com/images/logolynx/96/96aae98117d1588cd916e1fc889c9d77.png" group-title="HBO",HBO 2
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/hbo2_05a53e36_f7d98e803ea4f23679358650bc8bc83efbaf7663/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjMwLjIxNC4xODAiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4yOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjExNCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE3NDExMDY1O30%3D
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="HBO",HBO FAMILY
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hbofamily_536fb693_83a7f64848945bac43637c059ee5af8f3a3230d1/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjMwLjIxNC4xODAiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4yOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODkuMC40Mzg5LjExNCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjE3NDExMzM0O30%3D
